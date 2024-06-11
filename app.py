@@ -111,5 +111,5 @@ def main():
             st.write(explanation)
 
 if __name__ == "__main__":
-    openai.api_key = 'sk-proj-zcilWC15QIntnMKmwnaPT3BlbkFJWrwcGht5xbInYzLJUgFB'  # Substitua 'YOUR_API_KEY' pela sua chave de API da OpenAI
+    openai.api_key = ''  # chave de API da OpenAI
     main()
